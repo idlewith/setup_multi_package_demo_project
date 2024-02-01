@@ -1,0 +1,6 @@
+.idea
+t.py
+dist
+.eggs
+build
+multi_package_demo.egg-info
